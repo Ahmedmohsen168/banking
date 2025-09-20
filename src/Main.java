@@ -3,11 +3,9 @@ import java.util.Scanner ;
 public class Main {
 
 
-  static  Scanner scanner = new Scanner(System.in);
+  static  Scanner scanner = new Scanner(System.in); // scanner in the main class for every method in the class
 
     public static void main(String[] args) {
-        // Java
-        // declare variables
 
 
         int choice;
